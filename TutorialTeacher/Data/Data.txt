@@ -1,0 +1,24 @@
+﻿
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:15:00 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:15:07 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:15:11 PM
+
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:15:11 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:15:34 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:15:36 PM
+
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:15:36 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:15:38 PM
+
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:15:39 PM
+
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:29:43 PM
+
+Student -> Index -> OnActionExecuting 	- 7/26/2019 12:33:13 PM
+
+Student -> Edit -> OnActionExecuting 	- 7/26/2019 12:33:48 PM
